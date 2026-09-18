@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+# Yayasan Modern Al-Alawiyah
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Website resmi Yayasan Modern Al-Alawiyah - Lembaga Pendidikan Islam yang menggabungkan pendidikan agama dan umum untuk mencetak generasi berakhlak mulia dan berprestasi.
 
-## Available Scripts
+## Lokasi
+Jl. KH Muhidin Kp.Bubulak Santri No.Rt03/04, RT.03/RW.04, Kencana, Tanah Sareal, Kota Bogor, Jawa Barat 16161
 
-In the project directory, you can run:
+## Kontak
+- Telepon: +62 251 123 456
+- Email: info@alalawiyah.sch.id
+- WhatsApp: [Klik untuk chat](https://wa.me/6281234567890)
 
-### `npm start`
+## Program Pendidikan
+- **SMP/MTs** - Sekolah Menengah Pertama dengan sistem boarding school
+- **SMA/MA** - Sekolah Menengah Atas dengan jurusan IPA dan IPS
+- **Pesantren** - Program boarding school 24 jam dengan pembinaan akhlak
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Tech Stack
+- React.js
+- Tailwind CSS
+- React Router DOM
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Cara Menjalankan
 
-### `npm test`
+```bash
+# Install dependencies (jika belum)
+npm install
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Jalankan development server
+npm start
+```
 
-### `npm run build`
+Website akan berjalan di `http://localhost:3000`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Struktur Website
+1. **Beranda** - Hero section, featured content
+2. **Tentang Kami** - Sejarah dan profil yayasan
+3. **Visi & Misi** - Tujuan dan nilai-nilai yayasan
+4. **Program Kami** - Berbagai program unggulan
+5. **SMP/MTs** - Info program pendidikan menengah pertama
+6. **SMA/MA** - Info program pendidikan menengah atas
+7. **Pesantren** - Info sistem boarding school
+8. **Galeri** - Foto dan video kegiatan
+9. **Kontak** - Formulir kontak dan informasi
+10. **PPDB** - Penerimaan peserta didik baru
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Fitur
+- Responsive design (mobile-friendly)
+- Navigation menu dengan dropdown
+- Halaman PPDB dengan timeline pendaftaran
+- Formulir kontak
+- Galeri foto dan video
+- Info fasilitas pesantren
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Catatan
+- Gambar dan logo perlu diganti dengan gambar asli yayasan
+- Nomor telepon dan kontak perlu diupdate dengan data asli
+- Formulir kontak dan PPDB dapat diintegrasikan dengan backend untuk menyimpan data

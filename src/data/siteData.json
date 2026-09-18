@@ -1,0 +1,131 @@
+{
+  "siteInfo": {
+    "schoolName": "Yayasan Modern Al-Alawiyah",
+    "slogan": "Membentuk Generasi Berakhlak Mulia, Cerdas, dan Berprestasi",
+    "address": "Jl. KH Muhidin Kp.Bubulak Santri No.Rt03/04, Kencana, Tanah Sareal, Kota Bogor, Jawa Barat 16161",
+    "phone": "+62 251 123 456",
+    "email": "info@alalawiyah.sch.id",
+    "whatsapp": "6281234567890",
+    "ppdbTahunAjaran": "2026/2027",
+    "ppdbPhase": "Pendaftaran Buka"
+  },
+  "staff": [
+    {
+      "id": 1,
+      "nama": "H. Ahmad Fauzi, S.Pd.I, M.Pd",
+      "jabatan": "Ketua Yayasan",
+      "gambar": "/images/staff-1.jpg",
+      "deskripsi": "Pendiri & Penanggung Jawab Utama Yayasan Modern Al-Alawiyah"
+    },
+    {
+      "id": 2,
+      "nama": "Dr. Hj. Siti Aminah, M.Pd",
+      "jabatan": "Kepala Sekolah SMP/MTs",
+      "gambar": "/images/staff-2.jpg",
+      "deskripsi": "Memimpin jenjang SMP/MTs dengan visi pendidikan Islami terpadu"
+    },
+    {
+      "id": 3,
+      "nama": "Ustadz Muhammad Rizki, Lc",
+      "jabatan": "Kepala Sekolah SMK",
+      "gambar": "/images/staff-3.jpg",
+      "deskripsi": "Memimpin jenjang SMK & pengampu bidang kurikulum pesantren"
+    },
+    {
+      "id": 4,
+      "nama": "Ustadzah Nurul Huda, S.Ag",
+      "jabatan": "Wakil Kepala & Kesiswaan",
+      "gambar": "/images/staff-4.jpg",
+      "deskripsi": "Membina karakter, pembentukan akhlak, dan prestasi siswa"
+    }
+  ],
+  "galeri": [
+    { "id": 1, "gambar": "/images/galeri-1.jpg", "judul": "Gedung Utama", "kategori": "fasilitas" },
+    { "id": 2, "gambar": "/images/galeri-2.jpg", "judul": "Masjid", "kategori": "fasilitas" },
+    { "id": 3, "gambar": "/images/galeri-3.jpg", "judul": "Ruang Kelas", "kategori": "fasilitas" },
+    { "id": 4, "gambar": "/images/galeri-4.jpg", "judul": "Kegiatan Belajar", "kategori": "kegiatan" },
+    { "id": 5, "gambar": "/images/galeri-5.jpg", "judul": "Wisuda Tahfidz", "kategori": "acara" },
+    { "id": 6, "gambar": "/images/galeri-6.jpg", "judul": "Ekstrakurikuler Hadroh", "kategori": "kegiatan" }
+  ],
+  "heroImages": [
+    { "id": 1, "gambar": "/images/hero-1.jpg", "judul": "Selamat Datang di Al-Alawiyah" },
+    { "id": 2, "gambar": "/images/hero-2.jpg", "judul": "Lingkungan Belajar Islami" },
+    { "id": 3, "gambar": "/images/hero-3.jpg", "judul": "Raih Prestasi, Raih Ridho" }
+  ],
+  "programs": [
+    {
+      "id": 1,
+      "nama": "SMP/MTs",
+      "deskripsi": "Pendidikan menengah pertama dengan kurikulum nasional dan agama",
+      "gambar": "/images/program-smp.jpg"
+    },
+    {
+      "id": 2,
+      "nama": "SMK",
+      "deskripsi": "Pendidikan menengah kejuruan dengan berbagai pilihan kompetensi keahlian",
+      "gambar": "/images/program-smk.jpg"
+    },
+    {
+      "id": 3,
+      "nama": "Pesantren",
+      "deskripsi": "Sistem boarding school dengan pembinaan 24 jam",
+      "gambar": "/images/program-pesantren.jpg"
+    }
+  ],
+  "jurusan": [
+    {
+      "id": 1,
+      "kode": "TKJ",
+      "nama": "Teknik Komputer dan Jaringan",
+      "deskripsi": "Membekali siswa dengan kompetensi merakit, mengelola jaringan, dan administrasi server berbasis Linux & Windows.",
+      "karir": "Junior Network Engineer, IT Support, System Administrator, Technopreneur",
+      "gambar": "/images/jurusan-tkj.jpg",
+      "aksi": true
+    },
+    {
+      "id": 2,
+      "kode": "RPL",
+      "nama": "Rekayasa Perangkat Lunak",
+      "deskripsi": "Fokus pada pengembangan aplikasi web, mobile, dan basis data dengan metodologi industri dan praktik kerja lapangan.",
+      "karir": "Web Developer, Mobile Developer, QA Engineer, Backend Developer",
+      "gambar": "/images/jurusan-rpl.jpg",
+      "aksi": true
+    },
+    {
+      "id": 3,
+      "kode": "MM",
+      "nama": "Multimedia",
+      "deskripsi": "Melatih keterampilan desain grafis, videografi, animasi 2D/3D, dan fotografi untuk industri kreatif digital.",
+      "karir": "Desainer Grafis, Videografer, Animator, Content Creator",
+      "gambar": "/images/jurusan-mm.jpg",
+      "aksi": true
+    },
+    {
+      "id": 4,
+      "kode": "AKL",
+      "nama": "Akuntansi dan Keuangan Lembaga",
+      "deskripsi": "Menyiapkan tenaga ahli di bidang pembukuan, perpajakan, dan administrasi keuangan lembaga sesuai standar industri.",
+      "karir": "Staf Akuntan, Kasir, Admin Keuangan, Tax Associate",
+      "gambar": "/images/jurusan-akl.jpg",
+      "aksi": false
+    },
+    {
+      "id": 5,
+      "kode": "OTP",
+      "nama": "Otomatisasi dan Tata Kelola Perkantoran",
+      "deskripsi": "Membentuk tenaga administrasi profesional yang menguasai korespondensi, kearsipan, dan aplikasi perkantoran modern.",
+      "karir": "Sekretaris, Office Administrator, Staff HR, Receptionist",
+      "gambar": "/images/jurusan-otp.jpg",
+      "aksi": false
+    },
+    {
+      "id": 6,
+      "kode": "BDP",
+      "nama": "Bisnis Daring dan Pemasaran",
+      "deskripsi": "Pemasaran digital, e-commerce, dan manajemen ritel untuk mencetak wirausahawan muda berjiwa Islami.",
+      "karir": "Digital Marketer, E-commerce Manager, Wirausahawan, Sales Executive",
+      "gambar": "/images/jurusan-bdp.jpg",
+      "aksi": false
+    }
+  ]
+}
