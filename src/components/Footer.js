@@ -126,9 +126,23 @@ const Footer = () => {
         </div>
       </div>
 
-      <div className="border-t border-green-800/80 bg-black/20 py-6">
+      <div className="border-t border-green-800/80 bg-black/20 py-4">
         <div className="container mx-auto px-4 text-center text-xs text-green-100/60">
           <p>&copy; {new Date().getFullYear()} {siteInfo.schoolName}. All Rights Reserved.</p>
+        </div>
+      </div>
+
+      {/* Developer Credit */}
+      <div className="bg-black/40 border-t border-green-900/50 py-3">
+        <div className="container mx-auto px-4">
+          <div className="flex items-center justify-center">
+            <img
+              src="/favicon.ico"
+              alt="JIB Tech"
+              title="Developed by JIB Tech"
+              className="w-5 h-5 object-contain opacity-50 hover:opacity-100 transition-opacity duration-300"
+            />
+          </div>
         </div>
       </div>
     </footer>
